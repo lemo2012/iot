@@ -1,6 +1,6 @@
 '''
 Adaboost
-@author: musketeers
+@author: yyp@musketeers
 '''
 from numpy import *
 
